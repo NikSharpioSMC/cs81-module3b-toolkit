@@ -1,5 +1,9 @@
-//simple basic function like double(n)
+//Nik Sharpio
+//Santa Monica College - Summer 2025 - CS81 Module 3b - Toolkit
+//This is a simple toolkit for basic math functions
+//https://github.com/NikSharpioSMC/cs81-module3b-toolkit
 
+//simple basic function like double(n)
 function double(n) { // Check if n is a number, if not, default to 0
   if (typeof n !== 'number') {
     n = 0; // Default value if n is not provided or is not a number
