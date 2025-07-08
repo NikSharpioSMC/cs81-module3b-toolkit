@@ -1,3 +1,8 @@
+//Nik Sharpio
+//Santa Monica College - Summer 2025 - CS81 Module 3b - Toolkit
+//This is a simple toolkit for basic math functions
+//https://github.com/NikSharpioSMC/cs81-module3b-toolkit
+
 After all functions are complete, create a REFLECTION.md file:
 1Q) What patterns or surprises did you notice?
 1A) Thhe pattern is that the function returns with a argument followed by an arithmetic and the math function.
